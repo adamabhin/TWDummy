@@ -1,0 +1,9 @@
+= Product Information Document Robusta V2
+
+Dokumen berikut berisi penjelasan terkait semua _product_ yang ada di dalam sistem (System Name). Berikut untuk list dari product information :
+
+
+|===
+|*Document Title* |*Remark/Explanation*
+| <<product-information-robusta-v2/01-product-name-robusta-v2.adoc#, Product Name Robusta V2>> |
+|===

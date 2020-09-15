@@ -1,0 +1,9 @@
+= ADR Document Silo V2
+
+The documents below are the history of all decisions applied by the development team based on the exploration
+
+|===
+|*Document Title* |*Remark/Explanation*
+| <<adr-doc-silo-v2/0001-adr-decision-1-silo-v2.adoc#, [ADR-0001] Decision 1 Silo V2>> |Template ADR
+|Next Decision | 
+|===
