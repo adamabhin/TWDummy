@@ -1,0 +1,9 @@
+= Product Information Document Silo V2
+
+Dokumen berikut berisi penjelasan terkait semua _product_ yang ada di dalam sistem (System Name). Berikut untuk list dari product information :
+
+
+|===
+|*Document Title* |*Remark/Explanation*
+| <<product-information-silo-v2/01-product-name-silo-v2.adoc#, Product Name Silo V2>> |
+|===

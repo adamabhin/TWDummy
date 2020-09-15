@@ -1,0 +1,80 @@
+= *Silo V2*
+:--[no-]html-to-native:
+:author: Ayu Anindita
+:date: 2019-05-06
+:document type: 6
+:summary: Silo V2 merupakan sistem yang berfungsi untuk menangani penjualan produk fisik
+
+== Overview
+
+Silo V2 merupakan sistem yang berfungsi untuk menangani penjualan produk fisik seperti ponsel dan mobile modem beserta _starter pack_ (kartu perdana) atau _bundling_ paket data.
+Pada sistem ini, _request_ dari _partner merchant_ akan disimpan sementara (_inventory_), lalu akan didistribusikan ke _customer_.
+
+Terdapat 4 aktor yang terlibat dalam sistem Silo V2, yaitu:
+
+. Partner Merchant
+. Silo (Sistem)
+. Telco
+. Silo (Sepulsa Ops)
+
+Silov v2 juga related dengan system dolphin untuk membantu manajemen voucher
+
+=== Team Involved
+
+|===
+| *Name* | *Role* | *Email*
+
+| Pipit Puspitasari
+| Product Owner
+| pipit@alterra.id
+
+| Ananto Eko Hendarto
+| Developer Manager
+| anton@alterra.id
+
+| Kurniawan Eko Wasono
+| Lead Developer
+| iwan@alterra.id
+
+| Johanes Paulus Giovani Putra
+| Lead Quality Engineer
+| johanes@alterra.id
+
+| Pipit Puspitasari
+| Ex Lead System Analyst
+| pipit@alterra.id
+|===
+
+== Technical Invormation
+
+<<docs/url-silo-v2.adoc#, System URL Silo V2>>
+
+<<docs/architecture-silo-v2.adoc#, Architecture Silo V2>>
+
+<<docs/technology-silo-v2.adoc#, Technology Silo V2>>
+
+<<docs/environment-silo-v2.adoc#, Environment Silo V2>>
+
+<<docs/database-silo-v2.adoc#, Database Documentation Silo V2>>
+
+<<docs/release-deploy-silo-v2.adoc#, Release and Deployment Silo V2>>
+
+== Onboarding Information
+
+<<docs/dev-onboarding-silo-v2.adoc#, Developer Onboarding Silo V2>>
+
+<<docs/development-silo-v2.adoc#, Development Silo V2>>
+
+<<docs/naming-convention-silo-v2.adoc#, Naming Convention Silo V2>>
+
+== Documentation
+
+https://github.com/sepulsa/silo2/releases[Release Note Silo V2]
+
+https://silo.sumpahpalapa.com/admin/apidoc[API Documentation Silo V2]
+
+<<docs/problem-trouble-silo-v2.adoc#, Problem and Troubleshoot Silo V2>>
+
+<<docs/adr-doc-silo-v2.adoc#, ADR Document Silo V2>>
+
+<<docs/product-information-silo-v2.adoc#, Product Information Document Silo V2>>

@@ -1,0 +1,26 @@
+= Architecture Robusta V2
+
+== Sitemaps
+
+Berikut adalah arsitektur sistem dari Robusta V2:
+
+* Sitemap Myxl
++
+image::images-robusta-v2/MyXl.png[Sitemap Robusta V2]
+
+* Sitemap MyAxis
++
+image::images-robusta-v2/MyAxis.png[Sitemap Robusta V2]
+
+* Sitemap MyPrio
++
+image::images-robusta-v2/MyPrio.png[Sitemap Robusta V2]
+
+== *Related System*
+
+|===
+| *System Name* | *Description*
+
+| *Civet*
+| Kloningan sistem Pronghorn (_Backend_ dari sistem Robusta V2)
+|===

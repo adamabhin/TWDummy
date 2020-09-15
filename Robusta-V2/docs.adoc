@@ -1,0 +1,61 @@
+= Robusta
+:keywords: akj, telco, telco-payment-client, civet
+
+== Overview
+
+Robusta merupakan sebuah _frontend_ dari sistem Civet di mana digunakan untuk halaman partner yakni MyXL.
+Robusta itu sendiri merupakan kloningan dari sistem Frigate, yaitu berbentuk _website_ di mana fitur-fitur dan tampilannya akan disesuaikan dengan permintaan partner.
+
+== Team Involved
+
+|===
+| *Name* | *Role* | *Email*
+
+| Pipit Puspitasari
+| Product Owner
+| pipit@alterra.id
+
+| Ananto Eko Hendarto
+| Developer Manager
+| anton@alterra.id
+
+| Kurniawan Eko Wasono
+| Lead Developer
+| iwan@alterra.id
+
+| Johanes Paulus Giovani Putra
+| Lead Quality Engineer
+| johanes@alterra.id
+
+| Pipit Puspitasari
+| Ex Lead System Analyst
+| pipit@alterra.id
+|===
+
+== Technical Information
+
+<<docs/url-robusta-v2.adoc#, System URL Robusta V2>>
+
+<<docs/architecture-robusta-v2.adoc#, Architecture Robusta V2>>
+
+<<docs/technology-robusta-v2.adoc#, Technology Robusta V2>>
+
+<<docs/environtment-robusta-v2.adoc#, Environment Robusta V2>>
+
+<<docs/release-deploy-robusta-v2.adoc#, Release and Deployment Robusta V2>>
+
+== *Onboarding Information*
+
+<<docs/dev-onboarding-robusta-v2.adoc#, Developer Onboarding Robusta V2>>
+
+<<docs/development-robusta-v2.adoc#, Development Robusta V2>>
+
+<<docs/naming-convention-robusta-v2.adoc#, Architecture Robusta V2>>
+
+== Documentation
+
+https://github.com/sepulsa/robustav2/releases[Release Note Robusta V2]
+
+<<docs/adr-doc-robusta-v2.adoc#, ADR Document Robusta V2>>
+
+<<docs/product-information-robusta-v2.adoc#, Product Information Document Robusta V2>>
