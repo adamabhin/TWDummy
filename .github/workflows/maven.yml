@@ -3,7 +3,7 @@ name: Confluence Publisher coba
 on:
   push:
      tags: 
-       - 'v*-dummytw'
+       - 'v*-ah'
 jobs:
     build:
   
@@ -18,10 +18,10 @@ jobs:
       - name: Robusta V2
         env:
           username: ${{ secrets.ID }}
-          password: ${{ secrets.Token }}
+          password: ${{ secrets.TOKEN }}
         run: mvn org.sahli.asciidoc.confluence.publisher:asciidoc-confluence-publisher-maven-plugin:publish --file pom-robusta-v2.xml -Dusername=$username -Dpassword=$password
       - name: Silo V2
         env:
           username: ${{ secrets.ID }}
-          password: ${{ secrets.Token }}
+          password: ${{ secrets.TOKEN }}
         run: mvn org.sahli.asciidoc.confluence.publisher:asciidoc-confluence-publisher-maven-plugin:publish --file pom-silo-v2.xml -Dusername=$username -Dpassword=$password
