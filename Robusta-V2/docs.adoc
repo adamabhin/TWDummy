@@ -40,7 +40,7 @@ Robusta itu sendiri merupakan kloningan dari sistem Frigate, yaitu berbentuk _we
 
 <<docs/technology-robusta-v2.adoc#, Technology Robusta V2>>
 
-<<docs/environtment-robusta-v2.adoc#, Environment Robusta V2>>
+<<docs/environment-robusta-v2.adoc#, Environment Robusta V2>>
 
 <<docs/release-deploy-robusta-v2.adoc#, Release and Deployment Robusta V2>>
 
