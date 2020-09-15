@@ -15,8 +15,8 @@ jobs:
         uses: actions/setup-java@v1
         with:
           java-version: 1.8
-      - name: Silo V2
+      - name: Robusta V2
         env:
           username: ${{ secrets.ID }}
           password: ${{ secrets.TOKEN }}
-        run: mvn org.sahli.asciidoc.confluence.publisher:asciidoc-confluence-publisher-maven-plugin:publish --file pom-silo-v2.xml -Dusername=$username -Dpassword=$password
+        run: mvn org.sahli.asciidoc.confluence.publisher:asciidoc-confluence-publisher-maven-plugin:publish --file pom-robusta-v2.xml -Dusername=$username -Dpassword=$password
