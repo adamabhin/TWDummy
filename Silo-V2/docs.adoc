@@ -1,9 +1,5 @@
-= *Silo V2*
-:--[no-]html-to-native:
-:author: Ayu Anindita
-:date: 2019-05-06
-:document type: 6
-:summary: Silo V2 merupakan sistem yang berfungsi untuk menangani penjualan produk fisik
+= *Silo V2
+:keywords: akj, telco, physical-goods-inventory,	dolphin (polaris)
 
 == Overview
 
