@@ -1,0 +1,9 @@
+= Product Information Document Takoyaki V2
+
+Dokumen berikut berisi penjelasan terkait semua _product_ yang ada di dalam sistem (System Name). Berikut untuk list dari product information :
+
+
+|===
+|*Document Title* |*Remark/Explanation*
+| <<product-information-takoyaki-v2/01-product-name-takoyaki-v2.adoc#, Product Name Takoyaki V2>> |
+|===
