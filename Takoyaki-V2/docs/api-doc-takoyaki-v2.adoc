@@ -1,4 +1,4 @@
-= API Documentation Tkoyaki V2
+= API Documentation Takoyaki V2
 
 Dokumentasi API dapat diakses melalui link di bawah ini:
 
