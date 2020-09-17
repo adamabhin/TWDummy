@@ -19,4 +19,4 @@ jobs:
         env:
           username: ${{ secrets.ID }}
           password: ${{ secrets.TOKEN }}
-        run: mvn org.sahli.asciidoc.confluence.publisher:asciidoc-confluence-publisher-maven-plugin:publish --file pom-robusta-v2.xml -Dusername=$username -Dpassword=$password
+        run: mvn org.sahli.asciidoc.confluence.publisher:asciidoc-confluence-publisher-maven-plugin:publish --file pom-takoyaki-v2.xml -Dusername=$username -Dpassword=$password
