@@ -1,0 +1,8 @@
+= Flow and Wireframe Takoyaki V2
+
+* Flow Takoyaki   Berikut adalah _flow_ Takoyaki: https://docs.google.com/a/sepulsa.com/spreadsheets/d/1UASup5siIGy745SCFb1Q0cVyusw4pTOcy-YlJIGRpZs/edit?usp=sharing
+* Wireframe   Berikut adalah _Wireframe_ dari Takoyaki:
++
+*Promo Editor*
+
+image::images-takoyaki-v2/takoyaki-workflow-gitflow.png[Workflow/Gitflow]

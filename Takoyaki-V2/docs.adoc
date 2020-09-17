@@ -1,0 +1,69 @@
+= Takoyaki V2
+:keywords: telco
+
+== Overview
+
+Takoyaki V2 merupakan sistem yang digunakan untuk Promo & SMS Worker untuk Kraken, Promo yang berjalan ditakoyaki terhubung dengan System Kraken dengan detail sebagai berikut :
+
+* Sistem _worker_ promo untuk Kraken
+* Sistem ini meninjau transkasi pada kraken dan mengecek jika ada promo yang terkait.
+Jika ya, Takoyaki akan mengirimkan _request_ order promo berdasarkan partner yang sesuai.
+* Promo dapat memiliki jangka tanggal aktif dan memaksa (_force_) status aktif.
+* _Supported promo behaviour_ : Pulsaback (pembalian ini akan mendapatkan _sam carrier mobile number_)
+* _Pulsaback supported configuration : Product source, product target, transaction limit_
+
+== Team Involved
+
+|===
+| *Name* | *Role* | *Email*
+
+| Pipit Puspitasari
+| Product Owner
+| pipit@alterra.id
+
+| Ananto Eko Hendarto
+| Developer Manager
+| anton@alterra.id
+
+| Kurniawan Eko Wasono
+| Lead Developer
+| iwan@alterra.id
+
+| Johanes Paulus Giovani Putra
+| Lead Quality Engineer
+| johanes@alterra.id
+
+| Pipit Puspitasari
+| Ex Lead System Analyst
+| pipit@alterra.id
+|===
+
+== Technical Information
+
+<<docs/technology-takoyaki-v2.adoc#, Technology Takoyaki V2>>
+
+<<docs/environment-takoyaki-v2.adoc#, Environment Takoyaki V2>>
+
+<<docs/database-takoyaki-v2.adoc#, Database Documentation Takoyaki V2>>
+
+<<docs/url-takoyaki-v2.adoc#, System URL Takoyaki V2>>
+
+<<docs/flow-wire-takoyaki-v2.adoc#, Flow and Wireframe Takoyaki V2>>
+
+<<docs/release-deploy-takoyaki-v2.adoc#, Release and Deployment Takoyaki V2>>
+
+== Onboarding Information
+
+<<docs/dev-onboarding-takoyaki-v2.adoc#, Developer Onboarding Takoyaki V2>>
+
+== Documentation
+
+<<docs/release-note-takoyaki-v2.adoc#, Release Note Takoyaki V2>>
+
+<<docs/api-doc-takoyaki-v2.adoc#, API Documentation Takoyaki V2>>
+
+<<docs/adr-doc-takoyaki-v2.adoc#, ADR Document Takoyaki V2>>
+
+<<docs/product-information-takoyaki-v2.adoc#, Product Information Document Takoyaki V2>>
+
+<<docs/problem-trouble-takoyaki-v2.adoc#,Problem and Troubleshoot Takoyaki V2>>
